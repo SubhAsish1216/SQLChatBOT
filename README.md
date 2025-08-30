@@ -1,3 +1,5 @@
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/c6aad4b7-04de-408a-ab8b-bb612ec7f894" />
+
 🦜 Chat with Any Database
 
 This project is a Streamlit-based chatbot powered by LangChain + OpenAI, which lets you interact with your database in natural language.
